@@ -120,8 +120,8 @@ community.docker:
   tag: 3.13.3
   version: 3.13.3
 community.general:
-  repository: https://github.com/ansible-collections/community.general
-  tag: 9.5.2
+  repository: https://github.com/amleshkov/community.general.git
+  tag: ADCM-6364
   version: 9.5.2
 community.grafana:
   repository: https://github.com/ansible-collections/grafana
