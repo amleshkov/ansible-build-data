@@ -109,7 +109,7 @@ collections:
   community.docker:
     repository: https://github.com/ansible-collections/community.docker
   community.general:
-    repository: https://github.com/ansible-collections/community.general
+    repository: https://github.com/amleshkov/community.general
   community.grafana:
     repository: https://github.com/ansible-collections/grafana
   community.hashi_vault:
